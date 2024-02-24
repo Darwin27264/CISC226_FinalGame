@@ -1,8 +1,8 @@
-# CISC 226 Final Game
+# CISC 226 Final Game <br>
 
-Game title: 
+Game title: <br>
 
---- Group 10 ---
-Team Members:
-Darwin Chen - 20267164
-Sijing Zhang - 20243635
+--- Group 10 --- <br><br>
+Team Members:<br>
+Darwin Chen - 20267164 <br>
+Sijing Zhang - 20243635 <br>
