@@ -7,3 +7,4 @@ Team Members:<br>
 Moheng Wang - 20268882 <br>
 Darwin Chen - 20267164 <br>
 Sijing Zhang - 20243635 <br>
+Patrick Favret - 20351048 <br>
