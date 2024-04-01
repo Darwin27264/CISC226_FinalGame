@@ -31,4 +31,9 @@ public class Timer : MonoBehaviour
         timeText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
     }
 
+    // Could be called if we need to add time after completing a puzzle
+    void AddTime (float timeToAdd){
+        timeRemaining += timeToAdd;
+    }
+
 }
