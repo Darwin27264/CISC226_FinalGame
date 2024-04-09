@@ -1,6 +1,6 @@
 # CISC 226 Final Game <br>
 
-Game title: <br>
+Game title: Dark Minutes <br>
 
 --- Group 10 --- <br><br>
 Team Members:<br>
