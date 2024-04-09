@@ -5,6 +5,6 @@ Game title: <br>
 --- Group 10 --- <br><br>
 Team Members:<br>
 Moheng Wang <br>
-Darwin Chen - 20267164 <br>
-Sijing Zhang - 20243635 <br>
+Darwin Chen <br>
+Sijing Zhang  <br>
 Patrick Favret <br>
